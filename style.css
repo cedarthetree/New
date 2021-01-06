@@ -1,3 +1,41 @@
 body {
   font-family: 'Montserrat', sans-serif;
+  color: #2f2f2f
+}
+
+header {
+  padding: 40px;
+}
+
+h1 {
+color: brown
+}
+
+h2 {
+  color: brown
+}
+
+h3 {
+  color: brown
+}
+
+p.end {
+  padding: 40px;
+}
+
+a {
+  color: peru
+}
+
+a:hover {
+  color: #FF7F50
+}
+
+.flex {
+  display: flex;
+}
+
+.flex div {
+  flex: 1;
+  padding: 40px;
 }
